@@ -4,9 +4,9 @@ Hi! My name is Sanchit Dass
 Machine Learning Enthusiast and Web Developer
 ---------------------------------------------
 
-Hi! I am a master's student in Computer Science at Purdue University, passionate about advancing the field of machine learning and security, applying my skills in machine learning, deep learning, and Python.
+Hi! I am a software engineer with two years of experience in the industry. I recently completed my graduate degree in Computer Science at Purdue University. I am passionate about advancing the field of machine learning and I love building websites.
 
-* 🌍  I'm based in Indiana
+* 🌍  I'm based in 
 * ✉️  You can contact me at [sanchitd9@gmail.com](mailto:sanchitd9@gmail.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on projects
